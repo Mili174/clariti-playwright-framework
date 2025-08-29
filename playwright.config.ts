@@ -26,5 +26,9 @@ export default defineConfig({
       name: 'edge',       // Edge
       use: { ...devices['Desktop Edge'] },
     },
+    {
+      name: 'firefox',       // Edge
+      use: { ...devices['Desktop FireFox'] },
+    },
   ]
 });
