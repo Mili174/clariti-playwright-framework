@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="trace20">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test-results/e2e-checkout-checkout-flow-completes-successfully-firefox/trace.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

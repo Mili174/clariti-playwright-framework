@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="trace24">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test-results/e2e-checkout-checkout-flow-completes-successfully-chromium-retry1/trace.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

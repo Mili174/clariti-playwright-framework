@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="trace30">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test-results/smoke-login-valid-login-navigates-to-inventory-page-firefox/trace.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

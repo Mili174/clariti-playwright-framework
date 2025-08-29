@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="trace12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test-results/e2e-logout-user-can-logout-and-return-to-login-page-firefox/trace.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

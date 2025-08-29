@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="trace">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test-results/e2e-add-to-cart-add-two-items-and-verify-cart-badge-count-webkit/trace.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

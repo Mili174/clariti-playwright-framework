@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="trace7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test-results/e2e-sorting-products-can-be-sorted-by-price-ascending-webkit/trace.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
