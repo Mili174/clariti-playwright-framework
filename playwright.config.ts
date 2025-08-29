@@ -12,8 +12,8 @@ export default defineConfig({
   use: {
     baseURL: process.env.BASE_URL || 'https://www.saucedemo.com',
     trace: 'on',
-    screenshot: 'on',
-    video: 'on',
+    screenshot: 'only-on-failure',
+    video: 'retry-with-video',
     headless: false,
   },
 
@@ -28,7 +28,7 @@ export default defineConfig({
     },
     {
       name: 'firefox',       // Edge
-      use: { ...devices['Desktop FireFox'] },
+      use: { ...devices['Desktop Edge'] },
     },
   ]
 });
