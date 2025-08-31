@@ -4,7 +4,7 @@ This is a Playwright + TypeScript framework for the SauceDemo application
 
 ## Features
 - Page Object Model
-- Folder layout (`framework/pages`, `framework/helpers`, `test-data`)
+- Folder layout (`/pages`, `/tests`, `/test-data`)
 - JSON-driven test data
 - Environment-based credentials
 - HTML report, screenshots, videos, traces on failure
@@ -23,10 +23,5 @@ npm install playwright
 
 cp .env.example .env   # configure env vars if needed
 
-npm run test               # run all tests
+npm run test           # run all tests
 npm run report         # open HTML report
-```
-
-## Design Decisions
-- **Custom structure**: split into `pages`, `tests`, `test-data` for better organization
-- **Helper utilities**: reusable assertion helpers under `helpers`
