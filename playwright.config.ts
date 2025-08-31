@@ -19,7 +19,7 @@ export default defineConfig({
 
   browser: [
     {
-      name: 'chrome',   // Chrome
+      name: 'chrome',     // Chrome
       use: { ...devices['Desktop Chrome'] },
     },
     {
@@ -27,7 +27,7 @@ export default defineConfig({
       use: { ...devices['Desktop Edge'] },
     },
     {
-      name: 'firefox',       // Edge
+      name: 'firefox',    // Edge
       use: { ...devices['Desktop Edge'] },
     },
   ]
