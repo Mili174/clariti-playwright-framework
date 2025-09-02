@@ -5,7 +5,7 @@ export class InventoryPage {
 
   private cartLink = this.page.locator('.shopping_cart_link');
   private cartBadge = this.page.locator('.shopping_cart_badge');
-  private sortDropdown = this.page.locator('[data-test="product_sort_container"]');
+  private sortDropdown = this.page.locator('[data-test="product-sort-container"]');
   private priceTags = this.page.locator('.inventory_item_price');
 
   itemCard(name: string) {
